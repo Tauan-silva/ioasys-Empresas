@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Empresas</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_senha">Senha</string>
+    <string name="txt_sub_title">Lorem ipsum dolor sit amet, contetur\nadipiscing elit. Nunc accumsan.</string>
+    <string name="txt_title">BEM-VINDO AO\nEMPRESAS</string>
+    <string name="btn_entrar">Entrar</string>
+</resources>
